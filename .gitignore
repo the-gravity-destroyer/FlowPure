@@ -3,3 +3,4 @@
 *.pth
 /resources/checkpoints
 /resources/datasets
+/checkpoints/
